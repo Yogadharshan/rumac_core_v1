@@ -1,0 +1,12 @@
+[
+  {
+    "type": "stochastic_action",
+    "action": "down",
+    "error_rate": 0.5333333333333333
+  },
+  {
+    "type": "stochastic_action",
+    "action": "right",
+    "error_rate": 0.2222222222222222
+  }
+]
